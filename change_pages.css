@@ -1,0 +1,28 @@
+h1 {
+  front-family: arial;
+  color: blue;
+}
+
+div {
+  width: 140pt;
+  padding: 5pt;
+  margin: 10pt;
+  border: 1px solid lightgray;
+  font-size: 16pt;
+}
+
+.orangeback {
+  background-color: orange;
+}
+
+.yellowback {
+  background-color: yellow;
+}
+
+.blueback {
+  background-color: blue;
+}
+
+.greenback {
+  background-color: green;
+}
