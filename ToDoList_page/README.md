@@ -38,7 +38,7 @@ Visual display of the to-do list application
 
 <img width="664" alt="image" src="https://github.com/user-attachments/assets/01c7b653-138d-4fa2-8555-e575ef046ced">
 
-Alert message if not checked before delete
+**Alert message if not checked before delete**
 
 <img width="1433" alt="image" src="https://github.com/user-attachments/assets/139fc356-2fcd-41df-a292-d7783c3abf17">
 
