@@ -34,27 +34,27 @@ Visual display of the to-do list application
 
 **Add task**
 
-<img width="663" alt="image" src="https://github.com/user-attachments/assets/90ddb25f-7ea6-4e70-9be9-59fd6b50b00d">
+        <img width="663" alt="image" src="https://github.com/user-attachments/assets/90ddb25f-7ea6-4e70-9be9-59fd6b50b00d">
 
-<img width="664" alt="image" src="https://github.com/user-attachments/assets/01c7b653-138d-4fa2-8555-e575ef046ced">
+        <img width="664" alt="image" src="https://github.com/user-attachments/assets/01c7b653-138d-4fa2-8555-e575ef046ced">
 
 **Alert message if not checked before delete**
 
-<img width="1433" alt="image" src="https://github.com/user-attachments/assets/139fc356-2fcd-41df-a292-d7783c3abf17">
+        <img width="1433" alt="image" src="https://github.com/user-attachments/assets/139fc356-2fcd-41df-a292-d7783c3abf17">
 
 **Delete**
 
-<img width="666" alt="image" src="https://github.com/user-attachments/assets/aa90acfa-abcb-49f8-a3b9-5d2f938b22e9">
+        <img width="666" alt="image" src="https://github.com/user-attachments/assets/aa90acfa-abcb-49f8-a3b9-5d2f938b22e9">
 
 **Prioritize task**
 
-<img width="663" alt="image" src="https://github.com/user-attachments/assets/df468fdd-eee2-43b9-b1ea-f63c28af719d">
+        <img width="663" alt="image" src="https://github.com/user-attachments/assets/df468fdd-eee2-43b9-b1ea-f63c28af719d">
 
 **Get author info and clear info**
 
-<img width="667" alt="image" src="https://github.com/user-attachments/assets/dfbff643-4a42-4430-ae06-794d257919c1">
+        <img width="667" alt="image" src="https://github.com/user-attachments/assets/dfbff643-4a42-4430-ae06-794d257919c1">
 
-<img width="664" alt="image" src="https://github.com/user-attachments/assets/8d3abf27-854f-49c9-81bb-df492ad1b6a5">
+        <img width="664" alt="image" src="https://github.com/user-attachments/assets/8d3abf27-854f-49c9-81bb-df492ad1b6a5">
 
 
 Link to the application:https://codepen.io/Jackh1222/pen/vYqWjjG
