@@ -1,0 +1,13 @@
+canvas {
+  width: 300pt;
+  height: 200pt;
+  margin: 10px;
+  border: 1px solid lightgray;
+}
+body {
+  margin: 20px;
+}
+
+.orangeback {
+  background-color: orange;
+}
