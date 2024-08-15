@@ -1,0 +1,21 @@
+<h1 id="myHeader">TO DO List</h1>
+
+<input type="button" id="addButton" value="Add" onclick="addTask()" />
+<input type="text" id="input" placeholder="enter task..." />
+
+<hr>
+<ul id="tasks">
+  <li>
+    <input type="button" class="done" onclick="markDone(this.parentNode)" value="&#x2713;" />
+    <input type="button" class="remove" onclick="remove(this.parentNode)" value="&#x2715;" />
+    <input type="button" class="important" onclick="important(this.parentNode)" value="!" />
+    make todo list
+  </li>
+
+</ul>
+<hr>
+<div id="divabout"></div>
+
+<input type="button" class="about-clear-buttons" value=About onclick="doAbout()">
+
+<input type="button" class="about-clear-buttons" value="Clear" onclick="clearAbout()">
