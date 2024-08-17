@@ -1,0 +1,23 @@
+<script src="https://www.dukelearntoprogram.com/course1/common/js/image/SimpleImage.js"></script>
+
+<h1>Upload Image</h1>
+<canvas id="can1"></canvas>
+<canvas id="can2"></canvas>
+
+<p>
+  Filename:
+  <input type="file" id="finput" accept="image/*" onchange="upload()">
+</p>
+
+<p>
+  <input type="button" id="makegray" value="MakeGray" onclick="makeGray()">
+  <input type="button" id="makered" value="MakeRed" onclick="makeRed()">
+  <input type="button" id="fancyBorder" value="Fancy Border" onclick="addFancyBorder()">
+  <input type="button" id="starOverlay" value="Star Overlay" onclick="addStarOverlay()">
+  <input type="button" id="rainbow" value="Rainbow" onclick="addRainbowFilter()">
+  <input type="button" id="blur" value="Blur" onclick="addBlurFilter()">
+</p>
+
+<p>
+  <input type="button" id="reset" value="Reset" onclick="resetImage()">
+</p>
